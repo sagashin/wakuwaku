@@ -1,0 +1,6 @@
+{
+  "name": "わくわくヒーローランド！3つのちいくゲーム",
+  "description": "4歳児が夢中で遊べる！シルエットずかん・ひっさつわざすうじバトル・どかん＆コースパズルの3つの知育ミニゲーム＆7つのスターご褒美アプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
